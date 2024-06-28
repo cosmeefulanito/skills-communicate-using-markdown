@@ -14,3 +14,12 @@
 ``` java
 char mander = 'P';
 ```
+
+- [x] add header
+- [x] add Quote
+- [x] add code syntaxis
+- [x] add images
+- [x] add list item
+- [ ] add text style
+- [ ] add background colors
+- [ ] add links
