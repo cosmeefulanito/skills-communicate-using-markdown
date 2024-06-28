@@ -6,3 +6,6 @@
 >  Other people's definitions of you, sometimes they’re more about making themselves feel better. You gotta define yourself
 
 >  A wrong decision is better than indecision.
+
+
+![Image of Sopranos](https://deadline.com/wp-content/uploads/2016/04/the-sopranos.jpg)
